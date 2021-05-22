@@ -196,6 +196,7 @@ body {
     color: #fff;
     margin-top: ;
     padding-top: 250px;
+    background-size: cover;
 }
 
 .banner-title {}
@@ -353,6 +354,7 @@ body {
     padding: 100px 0;
     color: #fff;
     text-align: center;
+    background-size: cover;
 }
 
 .buildbtn {
@@ -514,7 +516,7 @@ body {
     background-image: url(./img/section6-bg.jpg); 
     padding: 72px 0;
     background-repeat: no-repeat;
-   
+    background-size: cover;
     color: #fff;
 }
 
@@ -662,6 +664,7 @@ button {
     background-image: url(./img/footer-bg.jpg);
     background-repeat: no-repeat;
     color: #bebebe;
+    background-size: cover;
    
 }
 
